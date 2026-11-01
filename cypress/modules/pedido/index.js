@@ -25,7 +25,7 @@ const mensagens = {
   prosseguirCheckout: 'Proceed To Checkout',
   realizarPedido: 'Place Order',
   tituloPedidoConfirmado: 'Order Placed!',
-  sucessoPedido: 'Your order has been placed successfully!',
+  sucessoPedido: 'Congratulations! Your order has been confirmed!',
 }
 
 function adicionarPrimeiroProdutoAoCarrinho() {

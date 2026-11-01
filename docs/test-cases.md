@@ -155,7 +155,7 @@ Base URL: `http://automationexercise.com`
 | 13 | Enter comment and click **Place Order** | — |
 | 14 | Enter payment details: Name on Card, Card Number, CVC, Expiration date | — |
 | 15 | Click **Pay and Confirm Order** | — |
-| 16 | — | Success message **Your order has been placed successfully!** is visible |
+| 16 | — | Success message **Congratulations! Your order has been confirmed!** is visible |
 | 17 | Click **Delete Account** | — |
 | 18 | — | **ACCOUNT DELETED!** is visible; click **Continue** |
 
@@ -179,6 +179,6 @@ Base URL: `http://automationexercise.com`
 | 12 | Enter comment and click **Place Order** | — |
 | 13 | Enter payment details: Name on Card, Card Number, CVC, Expiration date | — |
 | 14 | Click **Pay and Confirm Order** | — |
-| 15 | — | Success message **Your order has been placed successfully!** is visible |
+| 15 | — | Success message **Congratulations! Your order has been confirmed!** is visible |
 | 16 | Click **Delete Account** | — |
 | 17 | — | **ACCOUNT DELETED!** is visible; click **Continue** |

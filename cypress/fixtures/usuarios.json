@@ -1,0 +1,35 @@
+{
+  "novoUsuario": {
+    "nome": "PGATS Aut",
+    "senha": "12345",
+    "diaNascimento": "1",
+    "mesNascimento": "September",
+    "anoNascimento": "1990",
+    "primeiroNome": "PGATS",
+    "ultimoNome": "Aut",
+    "empresa": "PGATS",
+    "endereco": "123 Test Street",
+    "pais": "United States",
+    "estado": "California",
+    "cidade": "San Francisco",
+    "cep": "94105",
+    "celular": "999999999"
+  },
+  "loginInvalido": {
+    "email": "usuario-invalido@pgats.com",
+    "senha": "senha-incorreta"
+  },
+  "usuarioPreExistente": {
+    "nome": "Fernando Santos",
+    "email": "fernando+pgats@pgats.com.br",
+    "senha": "pgats@2026",
+    "primeiroNome": "Fernando",
+    "ultimoNome": "Santos",
+    "empresa": "PGATS",
+    "endereco": "Rua A",
+    "cidade": "Cidade",
+    "estado": "Estado",
+    "cep": "0123458-005",
+    "celular": "1234567890"
+  }
+}

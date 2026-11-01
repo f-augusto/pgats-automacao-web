@@ -1,0 +1,13 @@
+{
+  "name": "pgats-automacao-web",
+  "version": "1.0.0",
+  "description": "Projeto de automação de testes E2E com Cypress para o site automationexercise.com",
+  "scripts": {
+    "test": "cypress open",
+    "test:ci": "cypress run --browser chrome --reporter cypress-mochawesome-reporter"
+  },
+  "devDependencies": {
+    "cypress": "^16.2.0",
+    "cypress-mochawesome-reporter": "^5.0.0"
+  }
+}
